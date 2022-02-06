@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[PropertyEditor.csproj]
+SCC_Aux_Path = "D:\VSS"
+SCC_Project_Name = "$/LightCom/.NET/PropertiesEditor", YVBAAAAA
+
+[PropertiesEditor.csproj]
+SCC_Aux_Path = "D:\VSS"
+SCC_Project_Name = "$/LightCom/.NET/Controls/PropertiesEditor", YVBAAAAA
